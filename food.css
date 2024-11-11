@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    text-align:center;
+
+    background-color:black;
+}
+h1{
+    padding:10px;
+    color:white;
+}
+li{
+    padding:5px;
+    color:grey;
+    display:inline-block;
+}
+li:hover{
+    color:white;
+    cursor:pointer;
+}
+.a{
+    display:inline-block;
+    border-style:solid;
+    border-color:black;
+    border-width:1px;
+    width:220px;
+}
+.b{
+    display:inline-block;
+    border-style:solid;
+    border-color:black;
+    border-width:1px;
+    width:220px;
+}
+.c{
+    display:inline-block;
+    border-style:solid;
+    border-color:black;
+    border-width:1px;
+    width:220px;
+}
+.products{
+    text-align:center;
+}
+.a:hover{
+    color:white;
+    background-color:black;
+    cursor:pointer;
+}
+.b:hover{
+    color:white;
+    background-color:black;
+    cursor:pointer;
+}
+.c:hover{
+    color:white;
+    background-color:black;
+    cursor:pointer;
+}
+.aa{
+    color:white;
+    background-color:black;
+}
+.bb{
+    color:white;
+    background-color:black;
+}
+.cc{
+    color:white;
+    background-color:black;
+}
+.dd{
+    color:white;
+    background-color:black;
+}
+.aa:hover{
+   color:red;
+}
+.bb:hover{
+    color:red;
+ }
+ .cc:hover{
+    color:red;
+ }
+.dd:hover{
+    color:red;
+}
+.contact{
+    text-align:center;
+    color:white;
+    background-color:black;
+    margin-top:30px;
+}
+form{
+    margin-top:10px;
+}
